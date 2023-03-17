@@ -1,0 +1,61 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+}
+<div class="container-fluid">
+    <div class="text-center" style="background-color:mediumseagreen; border-radius:50px; border:5px solid black">
+        <h1 style="font-family:fantasy" class="display-4">Ласкаво просимо до магазину "Імперія Одягу"</h1>
+    </div>
+    <video src="/video/video5319006542974952430.mp4" autoplay="autoplay" width="100%" loop="loop" style="border-radius:50px" />
+</div>
+<div class="container">
+    <div class="row">
+        <div style="text-align:center; border-radius:50px; margin:25px; padding:10px;" class="accordion-item">
+            <h4>Знайдіть нас за посиланням на Instagram:</h4>
+            <a href="https://instagram.com/imperiyaodygu?igshid=MWI4MTIyMDE=">
+                <img src="/image/instaIcon/images.jfif" alt="Photo"/ height="100" style="border-radius:50px">
+            </a>
+            <div id="divnumber"; style="border-radius:10px; text-align:center; height:50px" class="accordion-body">
+                <h4 style="color:black">А також за номером телефону: <button class="btn btn-success" id="btnnumber">->Номер тут</button></h4>
+            </div>
+            <span style="font-size:25px">Також ви можете відправити звернення нам на електронну пошту:</span>
+            <!-- modify this form HTML and place wherever you want your form -->
+            <form action="https://formspree.io/f/meqwzbly"
+                  method="POST">
+                  <div class="align-content-center">
+                    <label>
+                        Ваш e-mail :
+                        <input class="input-group-text" type="email" name="email">
+                    </label>
+                    <label>
+                        Ваше повідомлення:
+                        <textarea class="input-group-text" name="message"></textarea>
+                    </label>
+                    <!-- your other form fields go here -->
+                    <button class="btn btn-outline-success" type="submit">Відправити</button>
+                  </div>
+                
+            </form>
+        </div>
+        <div class="col-sm-4 col-lg-4">
+            <img class="imghome" src="/image/photoFromHomePage/photo1674241127 (3).jpeg" alt="Photo" width="400" />
+            <h3>Більше десяти років співпраці з виробником.</h3>
+        </div>
+        <div class="col-sm-4 col-lg-4">
+            <img class="imghome" src="/image/photoFromHomePage/photo1674241127 (4).jpeg" alt="Photo" width="400" />
+            <h3>Не переплачуйте за бренд.</h3>
+        </div>
+        <div class="col-sm-4 col-lg-4">
+            <img class="imghome" src="/image/photoFromHomePage/photo1674241127 (5).jpeg" alt="Photo" width="400" />
+            <h3>Величезні знижки постійним покупцям.</h3>
+        </div>
+
+    </div>
+</div>
+<script>
+    let btn = document.getElementById('btnnumber');
+    btn.addEventListener('click',()=>{
+        alert("+380678494148");
+    });
+</script>
+
+

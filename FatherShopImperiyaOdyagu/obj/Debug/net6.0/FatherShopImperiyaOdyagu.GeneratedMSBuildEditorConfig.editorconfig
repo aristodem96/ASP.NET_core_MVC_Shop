@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FatherShopImperiyaOdyagu
+build_property.RootNamespace = FatherShopImperiyaOdyagu
+build_property.ProjectDir = D:\ШАГ\ASP.NET core API\1\FatherShopImperiyaOdyagu\FatherShopImperiyaOdyagu\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ШАГ\ASP.NET core API\1\FatherShopImperiyaOdyagu\FatherShopImperiyaOdyagu
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/Admins/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/Admins/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/Admins/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/Admins/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/Admins/Registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXFJlZ2lzdHJhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ШАГ/ASP.NET core API/1/FatherShopImperiyaOdyagu/FatherShopImperiyaOdyagu/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-o0he6blq0d

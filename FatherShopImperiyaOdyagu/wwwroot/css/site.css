@@ -1,0 +1,37 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.fromus{
+    border-radius:10px;
+    background-color:gainsboro;
+    padding:5px;
+
+}
+.imghome{
+    border-radius:280px;
+    margin:25px;
+    border: solid 5px seagreen;
+}
+.mymenu{
+    background-color:seagreen;
+    border-radius:50px;
+    margin:10px;
+    text-align:center;
+    border:solid 5px black;
+}
